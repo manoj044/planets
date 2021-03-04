@@ -2,8 +2,7 @@
 ###weather
 cold and dry but favourtutt
 Cold and dry, but everything is my favorite color
-
 But the Mummy will appreciate the lack of humidity
 ##moons
-###may be delete here
 An ill-considered changeThe two moons may be a problem for Wolfman
+###manoj
